@@ -1,0 +1,21 @@
+.categories{
+    border-radius: 1em;
+}
+.categories img{
+    width: 100px;
+}
+.noboni-card{
+    border: 0;
+    border-radius: 1em;
+}
+.noboni-card button{
+    background-image: linear-gradient( #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: 0;
+
+}
+.get-touch{
+    height: 300px; 
+    background-color: antiquewhite;
+    border-radius: 1em;
+}
